@@ -4,7 +4,7 @@ namespace snallWeeks_lab_firstDotNetApp
 {
   class Program
   {
-    private static string greet(string name)
+    private static string greet(string namePassedIn)
     {
       return "Welcome to SALT, ";
     }
