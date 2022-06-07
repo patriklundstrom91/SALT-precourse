@@ -6,7 +6,7 @@ namespace snallWeeks_lab_firstDotNetApp
   {
     public static string Greet(string name)
     {
-      return "Welcome to SALT!";
+      return "Welcome to SALT, ";
     }
     static void Main(string[] args)
     {
