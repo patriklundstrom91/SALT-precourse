@@ -1,5 +1,4 @@
-﻿
-static string Greet(string namePassedIn)
+﻿static string Greet(string namePassedIn)
 {
   return "Welcome to SALT, ";
 }
