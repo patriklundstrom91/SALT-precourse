@@ -7,5 +7,5 @@ Console.WriteLine(greeting);
 
 ﻿static string Greet(string namePassedIn)
 {
-  return "Welcome to SALT, ";
+  return $"Welcome to SALT, {namePassedIn}";
 }
