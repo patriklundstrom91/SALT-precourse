@@ -12,6 +12,10 @@ public class Person: IPrintable
     {
         this.Name = name;
     }
+    public Person(int year)
+    {
+        this.BirthYear = year;
+    }
 
     public string GetName()
     {
